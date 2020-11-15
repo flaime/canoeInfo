@@ -45,10 +45,6 @@ Primära funktionen som kan visa start och resultat. Editera och konfigurera myc
 
 ![bild på kanot.live](images/kanot.live.png "bild på kanot.live")
 
-Exempel på filerna:
-- [title.txt](exampleFiles/title.txt)
-- [lopp.json](exampleFiles/lopp.json)
-
 ### Livestream 
 En applikation för att hämta och integrera data till och i livestream. Denna har ett gui för att exemplvis enkelt kunna hämta och uppdatera loppdata. 
 Det den kräver är att veta URL:en till kanot.live och sedan får man välja vilket lopp och så kommer den skapa och uppdatera de två filerna man valt. 
@@ -57,6 +53,10 @@ Man kan där också se vad som skrivs till de två filerna och modifiera det om 
 Kan hittas [här](https://github.com/flaime/CanoeLiveStream)
  
 ![bild stream applikationen](images/streamApplication.png)
+
+Exempel på filerna:
+- [title.txt](exampleFiles/title.txt)
+- [lopp.json](exampleFiles/lopp.json)
 
 ### Maraton/långlopp
 Mitt senaste prodekt är att kunna få ut lopptider. Så man kan få upp hur lång efter alla ligger. Typ klart GUI för att mata in skulle behöva uppdateras lite.

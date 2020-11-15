@@ -61,4 +61,8 @@ Exempel på filerna:
 ### Maraton/långlopp
 Mitt senaste prodekt är att kunna få ut lopptider. Så man kan få upp hur lång efter alla ligger. Typ klart GUI för att mata in skulle behöva uppdateras lite.
 
+![Bild av lopptider GUI](images/loptider.png)
+En del av vad applikationen kan visa. Kan visa lopp och annat också samt ett litet admin interface.
+Den är mest tänkt för att andvändas till en livestream.
+
 Kan hittas [här](https://github.com/flaime/CanoeLiveStream) 

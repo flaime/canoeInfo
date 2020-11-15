@@ -34,6 +34,7 @@ Där det stora målet är att göra det lättare och smidigare för tävliande, 
 ## 💡 Grunden <a name = "idea"></a>
 Grunden i detta är att det finns en applikation 
 [💾  tävlings applikation](https://github.com/flaime/ResultatTavalaKanot)
+
 Som man startar på datorn som kör tävlingsprogramet. Där det suger ut alla data och skickar det regelbundet till en applikation i målnet som håller alla data uppdatera.
 
 första versionen av dokumentation om hur man kan hämta data finns [här](https://flaime.github.io/canoeWebApiDoc) (under konstruktion)
@@ -41,7 +42,7 @@ första versionen av dokumentation om hur man kan hämta data finns [här](https
 
 ### [kanot.live](https://kanot.live)
 Primära funktionen som kan visa start och resultat. Editera och konfigurera mycket av datan. Ta emot protester och mycket mer.
-<img src="image/image.png">
+
 ![bild på kanot.live](images/kanot.live.png "bild på kanot.live")
 
 
@@ -53,4 +54,6 @@ Man kan där också se vad som skrivs till de två filerna och modifiera det om 
 ![bild stream applikationen](images/streamApplication.png)
 
 ### Maraton/långlopp
-Mitt senaste prodekt är att kunna få ut lopptider. Så man kan få upp hur lång efter alla ligger. Typ klart GUI för att mata in skulle behöva uppdateras lite. 
+Mitt senaste prodekt är att kunna få ut lopptider. Så man kan få upp hur lång efter alla ligger. Typ klart GUI för att mata in skulle behöva uppdateras lite.
+
+Kan hittas [här](https://github.com/flaime/CanoeLiveStream) 

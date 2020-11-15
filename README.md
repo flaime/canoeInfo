@@ -45,10 +45,9 @@ Primära funktionen som kan visa start och resultat. Editera och konfigurera myc
 
 ![bild på kanot.live](images/kanot.live.png "bild på kanot.live")
 
-Exempel på filer:
-
-[title.txt](exampleFiles/title.txt)
-[lopp.json](exampleFiles/lopp.json)
+Exempel på filerna:
+- [title.txt](exampleFiles/title.txt)
+- [lopp.json](exampleFiles/lopp.json)
 
 ### Livestream 
 En applikation för att hämta och integrera data till och i livestream. Denna har ett gui för att exemplvis enkelt kunna hämta och uppdatera loppdata. 

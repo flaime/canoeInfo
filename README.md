@@ -2,7 +2,7 @@
   <a href="" rel="noopener">
  <img src="https://raw.githubusercontent.com/flaime/canoeInfo/main/logoFull.png" alt="Project logo"></a>
 </p>
-<h3 align="center">Kanot.live ekosystem</h3>
+<h3 align="center">Kanot.live ekosystemt</h3>
 
 
 <div align="center">
@@ -15,7 +15,7 @@
 --->
 </div>
 
-<p align="center"> En skara applikationer för att stötta med data.
+<p align="center"> En skara applikationer för att hantera data inom slätvatten tävlingar.
     <br> 
 </p>
 
@@ -40,16 +40,18 @@ Som man startar på datorn som kör tävlingsprogramet. Där det suger ut alla d
 första versionen av dokumentation om hur man kan hämta data finns [här](https://flaime.github.io/canoeWebApiDoc) (under konstruktion)
 ## Applikationen
 
-### [kanot.live](https://kanot.live)
-Primära funktionen som kan visa start och resultat. Editera och konfigurera mycket av datan. Ta emot protester och mycket mer.
+### kanot.live
+Primära funktionen som kan visa start och resultat. Editera och konfigurera mycket av datan. Ta emot protester och mycket mer. Kan hittas [här](https://kanot.live).
 
 ![bild på kanot.live](images/kanot.live.png "bild på kanot.live")
 
 
-### livestream 
+### Livestream 
 En applikation för att hämta och integrera data till och i livestream. Denna har ett gui för att exemplvis enkelt kunna hämta och uppdatera loppdata. 
 Det den kräver är att veta URL:en till kanot.live och sedan får man välja vilket lopp och så kommer den skapa och uppdatera de två filerna man valt. 
 Man kan där också se vad som skrivs till de två filerna och modifiera det om man vill genom att editera texten och sen updatera.
+
+Kan hittas [här](https://github.com/flaime/CanoeLiveStream)
  
 ![bild stream applikationen](images/streamApplication.png)
 

@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://raw.githubusercontent.com/flaime/canoeInfo/main/logoFull.png" alt="Project logo"></a>
+ <img src="./images/logoFull.png" alt="Project logo"></a>
 </p>
 <h3 align="center">Kanot.live ekosystemt</h3>
 

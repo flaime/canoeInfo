@@ -43,6 +43,15 @@ Första versionen av dokumentation om hur man kan hämta data finns [här](https
 ### kanot.live
 Primära funktionen som kan visa start och resultat. Editera och konfigurera mycket av datan. Ta emot protester och mycket mer. Kan hittas [här](https://kanot.live).
 
+Primära funktioner
+- se när alla lopp går för enskilda personer och klubbar
+- se alla lopp, banor tävlingar osv 
+- se statstik över snabbaste tider på olika distanser och likande
+- Samanfattning för varje personer över tid och statestik mellan trävlingar, år osv.
+- Se hurvida lopp är officiella eller ej
+- Funktionalitet för att hantera diskningar på tävlingar
+
+
 ![bild på kanot.live](images/kanot.live.png "bild på kanot.live")
 
 ### Livestream 

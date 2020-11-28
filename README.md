@@ -62,6 +62,7 @@ Man kan där också se vad som skrivs till de två filerna och modifiera det om 
 Kan hittas [här](https://github.com/flaime/CanoeLiveStream)
  
 ![bild stream applikationen](images/streamApplication.png)
+(Applikationens GUI är nu uppdaterad för att göra den lite lättare att andvända)
 
 Exempel på filerna:
 - [title.txt](exampleFiles/title.txt)
